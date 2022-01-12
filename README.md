@@ -11,7 +11,7 @@ This is a dataset from the UCI datasets repository. This dataset contains the fi
 
 <h3>Attribute Information:</h3>
 
-**1. school** - student's school (binary: 'GP' - Gabriel Pereira or 'MS' - Mousinho da Silveira)
+**1. school** - student's school (binary: 'GP' - Gabriel Pereira or 'MS' - Mousinho da Silveira)<br>
 **2. sex** - student's sex (binary: 'F' - female or 'M' - male)
 
 3 age - student's age (numeric: from 15 to 22)
@@ -69,7 +69,7 @@ This is a dataset from the UCI datasets repository. This dataset contains the fi
 
 30 absences - number of school absences (numeric: from 0 to 93)
 
-these grades are related with the course subject, Math:
+<h3>These grades are related with the course subject, Math:</h3>
 31 G1 - first period grade (numeric: from 0 to 20)
 
 31 G2 - second period grade (numeric: from 0 to 20)
